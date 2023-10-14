@@ -34,16 +34,18 @@ else { //If not on ground do the jump animation
 
 if (dash && xDirection != 0 && !dashing) {
 	xSpeed = xDirection * 25;
-	ySpeed  = 0;
+	
 	dashing = true;
 }
 
 if (dashing) {
-	if (xSpeed > spd) {
+	if (xSpeed > spd + 2) {
 		xSpeed -= 1;
+		ySpeed  = 0;
 	}
-	else if (xSpeed < spd) {
+	else if (xSpeed < spd - 2) {
 		xSpeed += 1;
+		ySpeed  = 0;
 	}
 	else {
 		dashing = false;
