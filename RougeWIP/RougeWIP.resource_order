@@ -19,6 +19,8 @@
   "ResourceOrderSettings": [
     {"name":"sBackground","order":1,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sWall","order":11,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
+    {"name":"Background","order":14,"path":"sprites/Background/Background.yy",},
     {"name":"sPlayerSlide","order":6,"path":"sprites/sPlayerSlide/sPlayerSlide.yy",},
     {"name":"sPlayerJump","order":7,"path":"sprites/sPlayerJump/sPlayerJump.yy",},
     {"name":"sTileset","order":9,"path":"sprites/sTileset/sTileset.yy",},
@@ -27,6 +29,8 @@
     {"name":"sPlayerIdle_strip4","order":5,"path":"sprites/sPlayerIdle_strip4/sPlayerIdle_strip4.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"sPlayerDash","order":12,"path":"sprites/sPlayerDash/sPlayerDash.yy",},
+    {"name":"Tree1","order":15,"path":"sprites/Tree1/Tree1.yy",},
     {"name":"Tilesheet","order":10,"path":"sprites/Tilesheet/Tilesheet.yy",},
+    {"name":"sNewPlayer","order":13,"path":"sprites/sNewPlayer/sNewPlayer.yy",},
   ],
 }

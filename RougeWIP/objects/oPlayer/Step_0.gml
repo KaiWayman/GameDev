@@ -18,7 +18,7 @@ if (onTheGround) { //Is the player on the ground?
 	else if (xDirection != 0) {
 		sprite_index = sPlayerRun_strip7; // If only moving, play the move animation
 	}
-	else { sprite_index = sPlayerIdle_strip4; } //Else idle animation
+	else { sprite_index = sNewPlayer; } //Else idle animation
 
 	if (jump) {
 		ySpeed = -15; //If player jumps move up by 15 pixels
