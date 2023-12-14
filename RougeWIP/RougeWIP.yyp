@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.0.121",
   },
   "resources": [
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"oTree","path":"objects/oTree/oTree.yy",},},
@@ -42,8 +43,10 @@
     {"id":{"name":"sPlayerJump","path":"sprites/sPlayerJump/sPlayerJump.yy",},},
     {"id":{"name":"tGround","path":"tilesets/tGround/tGround.yy",},},
     {"id":{"name":"sTileset","path":"sprites/sTileset/sTileset.yy",},},
+    {"id":{"name":"oRoomTransition","path":"objects/oRoomTransition/oRoomTransition.yy",},},
     {"id":{"name":"sPlayerRun_strip7","path":"sprites/sPlayerRun_strip7/sPlayerRun_strip7.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"sRoomTransition","path":"sprites/sRoomTransition/sRoomTransition.yy",},},
     {"id":{"name":"sPlayerIdle_strip4","path":"sprites/sPlayerIdle_strip4/sPlayerIdle_strip4.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"sPlayerDash","path":"sprites/sPlayerDash/sPlayerDash.yy",},},
@@ -55,6 +58,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

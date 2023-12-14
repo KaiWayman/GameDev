@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sBackground","order":1,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sWall","order":11,"path":"sprites/sWall/sWall.yy",},
     {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
@@ -24,8 +25,10 @@
     {"name":"sPlayerSlide","order":6,"path":"sprites/sPlayerSlide/sPlayerSlide.yy",},
     {"name":"sPlayerJump","order":7,"path":"sprites/sPlayerJump/sPlayerJump.yy",},
     {"name":"sTileset","order":9,"path":"sprites/sTileset/sTileset.yy",},
+    {"name":"oRoomTransition","order":4,"path":"objects/oRoomTransition/oRoomTransition.yy",},
     {"name":"sPlayerRun_strip7","order":8,"path":"sprites/sPlayerRun_strip7/sPlayerRun_strip7.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sRoomTransition","order":16,"path":"sprites/sRoomTransition/sRoomTransition.yy",},
     {"name":"sPlayerIdle_strip4","order":5,"path":"sprites/sPlayerIdle_strip4/sPlayerIdle_strip4.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"sPlayerDash","order":12,"path":"sprites/sPlayerDash/sPlayerDash.yy",},
